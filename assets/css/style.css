@@ -24,6 +24,12 @@ body {
     text-align: center;
   }
   
+  h2 {
+    margin-bottom: 20px;
+    text-align: center;
+    color: #4aaaa5;
+  }
+
   p:last-child {
     margin-bottom: 0;
   }
@@ -89,7 +95,7 @@ body {
     border-left: 1px solid #efefef;
   }
   
-  nav a:first-child {
+  a :first-child {
     border-left: 0 none;
   }
   
